@@ -3,7 +3,7 @@ import os
 from twilio.rest import Client
 
 API_URL = 'https://api.openweathermap.org/data/2.5/forecast'
-API_KEY = 'a3d70d5e144bf079fcfc5a0e89824b43'
+API_KEY = 'a3d70d5e144bf079fcfc5a0e89824b43' #rotated :)
 
 
 def send_sms_notification() -> None:
